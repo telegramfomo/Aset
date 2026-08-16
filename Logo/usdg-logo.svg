@@ -1,0 +1,5 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 32 32" fill="none">
+  <circle cx="16" cy="16" r="16" fill="#00C805"/>
+  <circle cx="16" cy="16" r="12" fill="#0B1A0B"/>
+  <text x="16" y="21.5" text-anchor="middle" font-family="ui-monospace, SFMono-Regular, Menlo, monospace" font-size="13" font-weight="700" fill="#00C805">$</text>
+</svg>
